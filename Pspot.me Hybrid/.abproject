@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Pspot.me Hybrid",
+  "ProjectGuid": "ad178a2a-d7e2-4d2f-9cf8-06d8bd6a4144",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.PspotmeHybrid",
+  "DisplayName": "Pspot.me Hybrid",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{f914b48c-3c22-4032-a0bd-b66bef0a3a6d}",
+  "WP8ProductID": "{bdbdb008-afea-48e3-8491-ed014336107a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.PspotmeHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
